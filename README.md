@@ -2,6 +2,11 @@
 
 Exploratory data analysis of the Superstore sales dataset (2014-2017) using Python. The goal was to answer common business questions about sales, products, customers and regions.
 
+## Live Dashboard
+[View the interactive dashboard here](https://superstore-ssales-dashboard.streamlit.app/)
+
+The dashboard has filters for year, region and category, with KPI cards, a monthly sales trend, category and region charts, and top 10 products and customers.
+
 ## Dataset
 - Source: Superstore Dataset on Kaggle (9,994 rows, 21 columns)
 - Covers orders from the United States, so location analysis is done by region and state
